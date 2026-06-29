@@ -1,4 +1,4 @@
-# 
+# Turbo SQL Server Management Studio fluxo de trabalho para Mac OS | Inteligente SQL Server Management Studio fluxo de trabalho para PC Windows. Com cache de build e variáveis de ambiente — otimizado para máximo desempenho em cada plataforma.
 
 
 
